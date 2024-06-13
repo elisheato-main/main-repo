@@ -1,5 +1,9 @@
 ---
+title: "Home"
 permalink: /all-linux/
 layout: default
 ---
-## Linux
+
+# All about Linux
+
+This site is all about Linux
