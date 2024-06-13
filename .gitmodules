@@ -1,0 +1,3 @@
+[submodule "all-windows"]
+	path = all-windows
+	url = https://github.com/elisheato-main/all-windows.git
