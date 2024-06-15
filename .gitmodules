@@ -7,3 +7,6 @@
 [submodule "all-python-fastapi"]
 	path = all-python-fastapi
 	url = https://github.com/elisheato-main/all-python-fastapi.git
+[submodule "all-python-flask"]
+	path = all-python-flask
+	url = https://github.com/elisheato-main/all-python-flask.git
