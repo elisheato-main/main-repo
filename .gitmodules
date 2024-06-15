@@ -4,3 +4,6 @@
 [submodule "all-linux"]
 	path = all-linux
 	url = https://github.com/elisheato-main/all-linux.git
+[submodule "all-python-fastapi"]
+	path = all-python-fastapi
+	url = https://github.com/elisheato-main/all-python-fastapi.git
